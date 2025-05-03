@@ -1,4 +1,0 @@
-Leave details for  Bob Smith  (ID: 202):
-Earned	2024-11-21	2024-11-26	Medical	Hospital
-Casual	2024-11-20	2024-11-21	Personal	Home
-Remaining Casual / Earned Balance: 14 / 16

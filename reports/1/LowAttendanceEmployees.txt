@@ -1,6 +1,0 @@
-ID	||	Name	||	Attendance
-========||==============||======================
-101	||	 Alice Johnson 	||	82.9545%
-202	||	 Bob Smith 	||	66.6667%
-909	||	 Isabella White 	||	92.3077%
-212	||	 Liam Robinson 	||	87.5%
