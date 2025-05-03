@@ -1,0 +1,38 @@
+1. Alice Johnson - ID: 101
+Casual 2024-11-14 2024-11-15 Personal Home 2024-10-30
+
+2. Bob Smith - ID: 202
+Earned 2024-11-21 2024-11-26 Medical Hospital 2024-10-31
+Casual 2024-11-20 2024-11-21 Personal Home 2024-11-02
+
+3. Clara Brown - ID: 303
+Official 2024-11-17 2024-11-19 Conference Office 2024-11-01
+
+4. David Williams - ID: 404
+Unpaid 2024-11-14 2025-11-17 Family-Emergency Home 2024-10-29
+
+5. Emma Taylor - ID: 505
+Casual 2025-11-05 2025-11-08 Personal Home 2024-11-02
+Earned 2025-11-09 2025-11-12 Vacation Resort 2024-11-03
+
+6. Frank Harris - ID: 606
+Earned 2024-12-06 2024-12-09 Vacation Resort 2024-10-30
+
+7. Grace Martin - ID: 707
+Earned 2024-11-16 2024-11-19 Vacation Resort 2024-11-03
+
+8. Henry Thompson - ID: 808
+Unpaid 2024-12-08 2024-12-11 Personal Home 2024-11-01
+
+9. Isabella White - ID: 909
+Earned 2024-11-19 2024-11-24 Medical-Appointment Clinic 2024-10-30
+Official 2024-11-13 2024-11-16 Conference Office 2024-11-01
+
+10. Jack Clark - ID: 010
+Casual 2024-11-12 2024-11-13 Family-Visit Home 2024-11-02
+
+11. Karen Lewis - ID: 111
+Official 2024-12-01 2024-12-03 Conference Office 2024-10-31
+
+12. Liam Robinson - ID: 212
+Casual 2024-11-27 2024-11-28 Sick Home 2024-11-27

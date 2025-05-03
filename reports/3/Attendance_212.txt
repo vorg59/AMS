@@ -1,0 +1,6 @@
+Attendance details for  Liam Robinson  (ID: 212):
+Date		||	Hours Worked
+================||========================
+2024-11-01	||	3 hours
+2024-11-02	||	12 hours
+2024-11-03	||	6 hours
